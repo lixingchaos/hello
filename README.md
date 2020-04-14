@@ -1,0 +1,2 @@
+# hello
+hust another repository
